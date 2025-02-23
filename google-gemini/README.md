@@ -7,8 +7,8 @@ This project contains Jupyter notebooks for exploring Google's Gemini models and
 ```
 google-gemini/
 ├── notebooks/     # Jupyter notebooks for Gemini experiments
-│   ├── 02_gemini_flash_basic.ipynb      # Basic Gemini response example
-│   └── 02_gemini_flash_streaming.ipynb   # Streaming Gemini response example
+│   ├── gemini_basic.ipynb      # Basic Gemini response example
+│   └── gemini_streaming.ipynb   # Streaming Gemini response example
 ```
 
 ## Setup
